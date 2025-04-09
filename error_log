@@ -1,0 +1,395 @@
+[12-Sep-2022 04:22:49 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:22:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:30 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:30 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:30 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:30 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:30 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:31 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:31 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:32 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:33 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:33 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:33 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:33 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:33 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:33 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:33 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:33 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:33 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:33 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:34 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:34 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:34 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:34 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:34 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:35 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:35 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:35 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:35 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:35 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:35 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:35 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:35 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:35 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:37 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:37 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:37 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:37 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:37 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:45 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:24:04 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:24:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:24:53 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:24:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:25:11 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:25:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:25:31 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:25:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:25:38 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:25:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:25:53 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:25:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:25:53 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:25:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:25:53 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:25:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:25:53 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:25:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:26:38 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:26:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:31:46 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:31:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:35:57 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:35:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:36:58 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:36:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
