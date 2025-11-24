@@ -4,7 +4,7 @@ from ta.volatility import average_true_range, bollinger_pband
 import pandas as pd, sys, os
 import TradingStrats as TS
 from Logger import *
-from LiveTradingConfig import custom_tp_sl_functions, wait_for_candle_close
+from LiveTradingConfig import custom_tp_sl_functions, wait_for_candle_close 
 
 class Bot:
     def __init__(self, symbol, Open, Close, High, Low, Volume, Date, OP, CP, index, tick,
