@@ -1,7 +1,7 @@
 import time, os, sys
 from Logger import *
 from threading import Thread
-from binance import ThreadedWebsocketManager
+from binance import ThreadedWebsocketManager 
 from binance.client import Client
 from binance.enums import (
     SIDE_SELL, SIDE_BUY,
