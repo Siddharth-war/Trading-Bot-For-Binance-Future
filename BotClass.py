@@ -1,7 +1,7 @@
 from Logger import *
 from ta.momentum import stochrsi_d, stochrsi_k, stoch, stoch_signal, rsi
 from ta.trend import ema_indicator, macd_signal, macd, sma_indicator
-from ta.volatility import average_true_range, bollinger_pband
+from ta.volatility import average_true_range, bollinger_pband 
 import pandas as pd, sys, os
 import TradingStrats as TS
 from LiveTradingConfig import custom_tp_sl_functions, wait_for_candle_close
