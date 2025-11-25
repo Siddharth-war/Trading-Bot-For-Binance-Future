@@ -1,7 +1,8 @@
-from threading import Thread
 import time, os, sys
+from Logger import *
+from threading import Thread
 from binance import ThreadedWebsocketManager
-from binance.client import Client 
+from binance.client import Client
 from binance.enums import (
     SIDE_SELL, SIDE_BUY,
     FUTURE_ORDER_TYPE_MARKET, FUTURE_ORDER_TYPE_LIMIT,
@@ -13,7 +14,7 @@ from tabulate import tabulate
 import TradingStrats
 from LiveTradingConfig import *
 from Helper import Trade
-from Logger import *
+
 
 def calculate_custom_tp_sl(options):
     """Custom TP/SL that needs trade info; used when TP_SL_choice requires context."""

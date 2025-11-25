@@ -2,9 +2,9 @@ import subprocess
 import os
 import sys
 
-_initialized = False 
+_initialized = False
 
-def _setup_environment(): 
+def _setup_environment():
     global _initialized
     if _initialized:
         return

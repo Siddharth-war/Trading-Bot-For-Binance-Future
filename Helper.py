@@ -1,9 +1,10 @@
 import os, sys, time, math
+from Logger import *
 from binance.client import Client
 from binance import ThreadedWebsocketManager
 import BotClass
-from LiveTradingConfig import * 
-from Logger import *
+from LiveTradingConfig import *
+
 
 def convert_buffer_to_string(buffer_int):
     """Convert candle count to Binance start_str like 'X hours/days ago'."""

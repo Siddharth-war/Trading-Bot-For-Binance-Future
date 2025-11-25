@@ -1,10 +1,10 @@
+from Logger import *
 import warnings
 warnings.filterwarnings('ignore', category=DeprecationWarning)
-
 import asyncio, os, multiprocessing
 from queue import Queue
 from threading import Thread
-from LiveTradingConfig import * 
+from LiveTradingConfig import *
 import SharedHelper
 from Helper import *
 from TradeManager import *
